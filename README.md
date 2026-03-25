@@ -88,4 +88,4 @@ Este repositório vai registrar os erros, as surpresas, as limitações da IA e 
 
 ---
 
-*Projeto iniciado em 2025. Em andamento.*
+*Projeto iniciado em 2026. Em andamento.*
